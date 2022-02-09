@@ -12,6 +12,7 @@ namespace Proba
         {
             Console.WriteLine("Helló!");
             Console.WriteLine("...");
+            Console.ReadLine();
         }
     }
 }
